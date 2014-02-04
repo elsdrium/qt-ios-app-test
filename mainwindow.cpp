@@ -12,3 +12,8 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+void MainWindow::foo()
+{
+    std::cout << "Hello World!" << std::endl;
+}

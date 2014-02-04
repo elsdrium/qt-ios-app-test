@@ -1,0 +1,621 @@
+Tqt-ios-app-test
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/Info.plist /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist
+cCompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cPhaseScriptExecution Qt\ Prelink /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+cLd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test normal i386
+cCpResource qt-ios-app-test.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.png
+cTouch /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000528221110000000000000176
+t1384259857
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523CFE7A00000000000003B5
+t1379729018
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526925CF00000000000001A0
+t1382622671
+s416
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000526933870000000000688550
+t1382626183
+s6849872
+
+N/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526933A20000000000ED5770
+t1382626210
+s15554416
+
+N/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000526933900000000000255920
+t1382626192
+s2447648
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005269339400000000009FD510
+t1382626196
+s10474768
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000526933A400000000004D4160
+t1382626212
+s5063008
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app
+t1390941613
+s204
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.png
+t1390941613
+s18594
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/Info.plist
+t1390941608
+s593
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/PkgInfo
+t1390941608
+s8
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test
+t1390941612
+s27165704
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist
+c0000000052E81593000000000000036D
+t1390941587
+s877
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp
+c0000000052E8093400000000000000AC
+t1390938420
+s172
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp
+c0000000052E801640000000000000125
+t1390936420
+s293
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp
+c0000000052E815A80000000000000A0B
+t1390941608
+s2571
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/*.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o
+t1390941610
+s3643
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o
+t1390941610
+s568036
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o
+t1390941610
+s352284
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/qt-ios-app-test.LinkFileList
+t1390941608
+s460
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+c0000000052E815A800000000000000EB
+t1390941608
+s235
+
+N/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.xcodeproj/Default-568h@2x.png
+c0000000052E8159300000000000048A2
+t1390941587
+s18594
+
+N/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5Core_iphonesimulator_debug.a
+c0000000052A4EA7B000000000491D5F8
+t1386539643
+s76666360
+
+N/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5Gui_iphonesimulator_debug.a
+c0000000052A4EA9F00000000093BAE08
+t1386539679
+s154906120
+
+N/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5PlatformSupport_iphonesimulator_debug.a
+c0000000052A4EAA500000000005ACF08
+t1386539685
+s5951240
+
+N/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5Widgets_iphonesimulator_debug.a
+c0000000052A4EAC5000000000D3956E0
+t1386539717
+s221861600
+
+N/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/plugins/platforms/libqios_iphonesimulator_debug.a
+c0000000052A4EAD6000000000086AD70
+t1386539734
+s8826224
+
+CBuild AST from /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp
+r0
+
+CBuild AST from /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp
+r0
+
+CBuild AST from /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies182594284d98b841^008f94284d98b841^---0#1#1#--18"Check dependencies36"8791EC3A-4F00-407D-A09D-B2FE25ACB35B-
+
+CCompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412634408.583779
+e412634410.316669
+r1
+xCompileC
+xqt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QMainWindow
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qmainwindow.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qflags.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobject.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstring.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qchar.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlist.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qrect.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsize.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qpair.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvector.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qregion.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qline.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qimage.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qhash.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfont.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qkeysequence.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qtabwidget.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qicon.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QApplication
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qapplication.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcoreapplication.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcoreevent.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qeventloop.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qguiapplication.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qinputmethod.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlocale.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvariant.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp170"CompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler369195284d98b841^f111512a4d98b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp0000000000000000^3818"CompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/qt-ios-app-test.hmap -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/include -I/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../../../Qt5.2.0/5.2.0/ios/include -I../../../Qt5.2.0/5.2.0/ios/include/QtWidgets -I../../../Qt5.2.0/5.2.0/ios/include/QtGui -I../../../Qt5.2.0/5.2.0/ios/include/QtCore -I. -I. -I../../../Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources/i386 -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources -F/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -g -gdwarf-2 -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.dia -c /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/main.cpp -o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o36"689F013E-1F9A-49A3-931C-3BBD5B502E81-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+
+CCompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412634408.584238
+e412634410.469676
+r1
+xCompileC
+xqt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QMainWindow
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qmainwindow.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qflags.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobject.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstring.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qchar.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlist.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qrect.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsize.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qpair.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvector.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qregion.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qline.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qimage.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qhash.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfont.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qkeysequence.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qtabwidget.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qicon.h
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/ui_mainwindow.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/QVariant
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvariant.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmap.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QAction
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qaction.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qactiongroup.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QApplication
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qapplication.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcoreapplication.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcoreevent.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qeventloop.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qguiapplication.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qinputmethod.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlocale.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QButtonGroup
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qbuttongroup.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QHeaderView
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qheaderview.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qabstractitemview.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qabstractscrollarea.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qframe.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qabstractitemmodel.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qitemselectionmodel.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qset.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qabstractitemdelegate.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qstyleoption.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qabstractspinbox.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qvalidator.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qregularexpression.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qslider.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qabstractslider.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qstyle.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qtabbar.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qrubberband.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QMenu
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qmenu.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QMenuBar
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qmenubar.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QPushButton
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qpushbutton.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qabstractbutton.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QSpinBox
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qspinbox.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QStatusBar
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qstatusbar.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QToolBar
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qtoolbar.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QVBoxLayout
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qboxlayout.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qlayout.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qlayoutitem.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qgridlayout.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QWidget
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp182"CompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler5ab795284d98b841^753e782a4d98b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp0000000000000000^3854"CompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/qt-ios-app-test.hmap -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/include -I/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../../../Qt5.2.0/5.2.0/ios/include -I../../../Qt5.2.0/5.2.0/ios/include/QtWidgets -I../../../Qt5.2.0/5.2.0/ios/include/QtGui -I../../../Qt5.2.0/5.2.0/ios/include/QtCore -I. -I. -I../../../Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources/i386 -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources -F/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -g -gdwarf-2 -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.d --serialize-diagnostics /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.dia -c /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.cpp -o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o36"EE0BB946-A848-4847-A9E4-1B88F7296B5B-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+
+CCompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412634408.585010
+e412634410.180013
+r1
+xCompileC
+xqt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/mainwindow.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/QMainWindow
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qmainwindow.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qflags.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobject.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstring.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qchar.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qlist.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qrect.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsize.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qpair.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qvector.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qregion.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qline.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qimage.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtCore/qhash.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfont.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qkeysequence.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtWidgets/qtabwidget.h
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/include/QtGui/qicon.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp190"CompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler5be995284d98b841^55152e2a4d98b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp0000000000000000^3878"CompileC qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/qt-ios-app-test.hmap -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/include -I/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../../../Qt5.2.0/5.2.0/ios/include -I../../../Qt5.2.0/5.2.0/ios/include/QtWidgets -I../../../Qt5.2.0/5.2.0/ios/include/QtGui -I../../../Qt5.2.0/5.2.0/ios/include/QtCore -I. -I. -I../../../Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources/i386 -I/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources -F/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -g -gdwarf-2 -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.d --serialize-diagnostics /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.dia -c /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/moc_mainwindow.cpp -o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o36"DC0046CF-E0C8-4448-A5AC-2BA24EEB0B48-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+
+CCpResource qt-ios-app-test.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.png
+s412634413.170053
+e412634413.171015
+r1
+xCpResource
+xqt-ios-app-test.xcodeproj/Default-568h@2x.png
+xDebug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Debug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.png118"CpResource qt-ios-app-test.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.pnge5992b2d4d98b841^6dc82b2d4d98b841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.png0034d00cdeffdf42^686"CpResource qt-ios-app-test.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/qt-ios-app-test.app/Default-568h@2x.png    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.xcodeproj/Default-568h@2x.png /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app36"B7480338-3F53-4BEE-AF7B-D5922969D3A0-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+
+CLd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test normal i386
+s412634410.515821
+e412634413.169123
+r1
+xLd
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test
+xnormal
+xi386
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/qt-ios-app-test.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/main.o
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/mainwindow.o
+d/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/moc_mainwindow.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libm.dylib
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/plugins/platforms/libqios_iphonesimulator_debug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5PlatformSupport_iphonesimulator_debug.a
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5Widgets_iphonesimulator_debug.a
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5Gui_iphonesimulator_debug.a
+d/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib/libQt5Core_iphonesimulator_debug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test72"Ld Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test normal i386751f842a4d98b841^904c2b2d4d98b841^---0#0#1#--2113"Ld Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test normal i386    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator -L/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/plugins/platforms -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks -L/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib -F/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator -filelist /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/qt-ios-app-test.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -headerpad_max_install_names -u _qt_registerPlatformPlugin -L/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/plugins/platforms -framework UIKit -L/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib -framework OpenGLES -lz -lm -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -lqios_iphonesimulator_debug -framework Foundation -framework QuartzCore -framework CoreFoundation -framework CoreText -framework CoreGraphics -lQt5PlatformSupport_iphonesimulator_debug -lQt5Widgets_iphonesimulator_debug -lQt5Gui_iphonesimulator_debug -lQt5Core_iphonesimulator_debug -Xlinker -dependency_info -Xlinker /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/qt-ios-app-test_dependency_info.dat -o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/qt-ios-app-test36"468BF14F-4DE9-4814-95F1-A8CED0739509-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+
+CPhaseScriptExecution Qt\ Prelink /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+s412634410.471263
+e412634410.514940
+r1
+xPhaseScriptExecution
+xQt Prelink
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Qt Prelink'133"PhaseScriptExecution Qt\ Prelink qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh2e59792a4d98b841^5ad4832a4d98b841^---0#0#1#--24749"PhaseScriptExecution Qt\ Prelink qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER chenhsueh-min    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD i386    setenv ARCHS_STANDARD_32_64_BIT i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "i386 x86_64"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv BUILD_ROOT /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/mr/w4b61wzn0j30lnclyrh703jw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang    setenv CCHROOT /var/folders/mr/w4b61wzn0j30lnclyrh703jw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneSimulatorCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/mr/w4b61wzn0j30lnclyrh703jw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH qt-ios-app-test.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH qt-ios-app-test.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/qt-ios-app-test.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME qt-ios-app-test.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator    setenv DYLIB_COMPATIBILITY_VERSION 1.0    setenv DYLIB_CURRENT_VERSION 1.0.0    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH qt-ios-app-test.app/Executables    setenv EXECUTABLE_FOLDER_PATH qt-ios-app-test.app    setenv EXECUTABLE_NAME qt-ios-app-test    setenv EXECUTABLE_PATH qt-ios-app-test.app/qt-ios-app-test    setenv FILE_LIST /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH qt-ios-app-test.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME qt-ios-app-test.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/include /Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang/ios ../../../Qt5.2.0/5.2.0/ios/include ../../../Qt5.2.0/5.2.0/ios/include/QtWidgets ../../../Qt5.2.0/5.2.0/ios/include/QtGui ../../../Qt5.2.0/5.2.0/ios/include/QtCore . . ../../../Qt5.2.0/5.2.0/ios/mkspecs/macx-ios-clang"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH qt-ios-app-test.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH qt-ios-app-test.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/qt-ios-app-test.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER chenhsueh-min    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/qt-ios-app-test.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH qt-ios-app-test.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LDPLUSPLUS /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++    setenv LD_DEPENDENCY_INFO_FILE /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/qt-ios-app-test_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/qt-ios-app-test-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator /Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/plugins/platforms /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks /Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/qt-ios-app-test.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH qt-ios-app-test.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 13B42    setenv MAC_OS_X_VERSION_ACTUAL 1091    setenv MAC_OS_X_VERSION_MAJOR 1090    setenv MAC_OS_X_VERSION_MINOR 0901    setenv MODULE_CACHE_DIR /Users/chenhsueh-min/Library/Developer/Xcode/DerivedData/ModuleCache    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal    setenv OBJROOT /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -g -gdwarf-2 -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -g -gdwarf-2 -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -u _qt_registerPlatformPlugin -L/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/plugins/platforms -framework UIKit -L/Users/chenhsueh-min/Qt5.2.0/5.2.0/ios/lib -framework OpenGLES -lz -lm"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH qt-ios-app-test.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/PkgInfo    setenv PKGINFO_PATH qt-ios-app-test.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 11B508    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 70000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH qt-ios-app-test.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH qt-ios-app-test.app/PrivateHeaders    setenv PRODUCT_NAME qt-ios-app-test    setenv PRODUCT_SETTINGS_PATH /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT qt-ios-app-test    setenv PROJECT_DERIVED_FILE_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/DerivedSources    setenv PROJECT_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv PROJECT_FILE_PATH /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.xcodeproj    setenv PROJECT_NAME qt-ios-app-test    setenv PROJECT_TEMP_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build    setenv PROJECT_TEMP_ROOT /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv PUBLIC_HEADERS_FOLDER_PATH qt-ios-app-test.app/Headers    setenv QT_LIBRARY_SUFFIX _iphonesimulator_debug    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH qt-ios-app-test.app/Scripts    setenv SCRIPT_INPUT_FILE_0 "/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/*.o"    setenv SCRIPT_INPUT_FILE_COUNT 1    setenv SCRIPT_OUTPUT_FILE_0 /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Objects-normal/i386/qt-ios-app-test.LinkFileList    setenv SCRIPT_OUTPUT_FILE_COUNT 1    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_NAME iphonesimulator7.0    setenv SDK_PRODUCT_BUILD_VERSION 11B508    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH qt-ios-app-test.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/mr/w4b61wzn0j30lnclyrh703jw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH qt-ios-app-test.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv SRCROOT /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME qt-ios-app-test    setenv TARGET_BUILD_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator    setenv TARGET_NAME qt-ios-app-test    setenv TARGET_TEMP_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build    setenv TEMP_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build    setenv TEMP_FILES_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build    setenv TEMP_FILE_DIR /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build    setenv TEMP_ROOT /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH qt-ios-app-test.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER chenhsueh-min    setenv USER_APPS_DIR /Users/chenhsueh-min/Applications    setenv USER_LIBRARY_DIR /Users/chenhsueh-min/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH qt-ios-app-test.app/version.plist    setenv VERSION_INFO_BUILDER chenhsueh-min    setenv VERSION_INFO_FILE qt-ios-app-test_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:qt-ios-app-test  PROJECT:qt-ios-app-test-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME qt-ios-app-test.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A3005    setenv XCODE_VERSION_ACTUAL 0502    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH qt-ios-app-test.app/XPCServices    setenv YACC yacc    setenv arch i386    setenv variant normal    /bin/sh -c /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/qt-ios-app-test.build/Debug-iphonesimulator/qt-ios-app-test.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh36"5D3A97F6-4450-46C6-906B-BE794AC8343D-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+
+CProcessInfoPlistFile /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/Info.plist /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist
+s412634408.581035
+e412634408.582823
+r1
+xProcessInfoPlistFile
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/Info.plist
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist84"ProcessInfoPlistFile Debug-iphonesimulator/qt-ios-app-test.app/Info.plist Info.plist8dcf94284d98b841^163495284d98b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist0000000000000000^727"ProcessInfoPlistFile Debug-iphonesimulator/qt-ios-app-test.app/Info.plist Info.plist    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Info.plist -genpkginfo /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app/Info.plist36"30B4A305-1A1A-4793-8791-DA50BABDA9E0-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+
+CTouch /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app
+s412634413.171507
+e412634413.210622
+r1
+xTouch
+x/Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app47"Touch Debug-iphonesimulator/qt-ios-app-test.app02f42b2d4d98b841^f2ed352d4d98b841^---0#0#1#--424"Touch Debug-iphonesimulator/qt-ios-app-test.app    cd /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/chenhsueh-min/Desktop/Workspace/qt-ios-app-test/Debug-iphonesimulator/qt-ios-app-test.app36"B8D21C2F-5A29-42C3-9E8A-F7FDF0A9EEE1-
+b96ACCEB7-1FDA-4F04-8DFD-3259B9276270
+

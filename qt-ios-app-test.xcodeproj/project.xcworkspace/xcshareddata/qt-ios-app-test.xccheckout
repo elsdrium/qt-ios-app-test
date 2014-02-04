@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>611EE5C7-E04A-4AE4-A002-7B4AB97587FD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>qt-ios-app-test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9E13C120-5076-4F5D-8686-BAAB21AA195E</key>
+		<string>https://github.com/elsdrm/qt-ios-app-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>qt-ios-app-test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9E13C120-5076-4F5D-8686-BAAB21AA195E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/elsdrm/qt-ios-app-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9E13C120-5076-4F5D-8686-BAAB21AA195E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9E13C120-5076-4F5D-8686-BAAB21AA195E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>qt-ios-app-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
